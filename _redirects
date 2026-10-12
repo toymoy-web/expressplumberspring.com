@@ -1,1 +1,25 @@
-# no redirects yet — Cloudflare Pages resolves clean URLs natively
+# Renamed blog posts (301). Both with and without trailing slash.
+/blog/backflow-testing-texas-do-you-need-it/ /blog/backflow-testing-do-you-need-it-spring-tx/ 301
+/blog/backflow-testing-texas-do-you-need-it /blog/backflow-testing-do-you-need-it-spring-tx/ 301
+/blog/frozen-pipes-texas-winter-storm-what-to-do/ /blog/frozen-pipes-winter-storm-what-to-do-spring-tx/ 301
+/blog/frozen-pipes-texas-winter-storm-what-to-do /blog/frozen-pipes-winter-storm-what-to-do-spring-tx/ 301
+/blog/how-long-does-a-water-heater-last/ /blog/how-long-does-a-water-heater-last-spring-tx/ 301
+/blog/how-long-does-a-water-heater-last /blog/how-long-does-a-water-heater-last-spring-tx/ 301
+/blog/how-to-shut-off-main-water-valve/ /blog/how-to-shut-off-main-water-valve-spring-tx/ 301
+/blog/how-to-shut-off-main-water-valve /blog/how-to-shut-off-main-water-valve-spring-tx/ 301
+/blog/hydro-jetting-vs-snaking-drain-cleaning/ /blog/hydro-jetting-vs-snaking-drain-cleaning-spring-tx/ 301
+/blog/hydro-jetting-vs-snaking-drain-cleaning /blog/hydro-jetting-vs-snaking-drain-cleaning-spring-tx/ 301
+/blog/is-a-running-toilet-an-emergency/ /blog/is-a-running-toilet-an-emergency-spring-tx/ 301
+/blog/is-a-running-toilet-an-emergency /blog/is-a-running-toilet-an-emergency-spring-tx/ 301
+/blog/low-water-pressure-shower-causes/ /blog/low-water-pressure-shower-causes-spring-tx/ 301
+/blog/low-water-pressure-shower-causes /blog/low-water-pressure-shower-causes-spring-tx/ 301
+/blog/permit-for-plumbing-work-texas/ /blog/permit-for-plumbing-work-spring-tx/ 301
+/blog/permit-for-plumbing-work-texas /blog/permit-for-plumbing-work-spring-tx/ 301
+/blog/signs-of-hard-water-what-to-do/ /blog/signs-of-hard-water-what-to-do-spring-tx/ 301
+/blog/signs-of-hard-water-what-to-do /blog/signs-of-hard-water-what-to-do-spring-tx/ 301
+/blog/signs-you-need-sewer-line-repair/ /blog/signs-you-need-sewer-line-repair-spring-tx/ 301
+/blog/signs-you-need-sewer-line-repair /blog/signs-you-need-sewer-line-repair-spring-tx/ 301
+/blog/smell-gas-in-home-what-to-do/ /blog/smell-gas-in-home-what-to-do-spring-tx/ 301
+/blog/smell-gas-in-home-what-to-do /blog/smell-gas-in-home-what-to-do-spring-tx/ 301
+/blog/what-not-to-put-down-garbage-disposal/ /blog/what-not-to-put-down-garbage-disposal-spring-tx/ 301
+/blog/what-not-to-put-down-garbage-disposal /blog/what-not-to-put-down-garbage-disposal-spring-tx/ 301
