@@ -236,3 +236,8 @@ main p + p{margin-top:14px}
 .node .bodytext{padding:10px 8px}
 .node .emerg-box{background:#FFF6F3}
 .node .pricenote,.node .localnote{background:var(--bg-soft)}
+
+/* ---------- footer social ---------- */
+footer .social{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+footer .social a{color:#fff;text-decoration:none;font-size:12.5px;font-weight:600;padding:7px 12px;border:1px solid #2F343C;border-radius:100px;background:#171A20}
+footer .social a:hover{background:var(--plat);border-color:var(--plat)}
